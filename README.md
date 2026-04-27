@@ -1,4 +1,6 @@
-# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
+# Adding Sungalasses to your Passport photo using opencv
+## Name: Ashwath M
+## Register number: 212223230023
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
